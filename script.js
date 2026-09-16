@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════
-   BANANA CAT HUB — script.js
+   APPLE HUB — script.js
    Includes: i18n, particles, navbar, FAQ,
    scroll reveal, stats counter, parallax
 ═══════════════════════════════════════════════ */
