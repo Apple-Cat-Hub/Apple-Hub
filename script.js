@@ -22,7 +22,7 @@ const translations = {
     lang_en:      'English',
 
     // Hero
-    hero_badge:         'Đang hoạt động · v2.5 Ra mắt',
+    hero_badge:         'Đang hoạt động · v0.1 Ra mắt',
     hero_desc:          'Hub tự động hóa thế hệ mới — tối ưu hiệu năng, giao diện sạch, hỗ trợ hàng chục tính năng tiện lợi và luôn cập nhật.',
     btn_view_features:  'Xem tính năng',
     scroll_hint:        'Cuộn xuống',
